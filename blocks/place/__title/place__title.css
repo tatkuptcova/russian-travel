@@ -5,7 +5,8 @@
     font-size: 72px;
     line-height: 76px;
     color: #ffffff;
-}
+    padding-top: 80px;
+    
 
 @media screen and (max-width: 767px) {
     .place__title {
