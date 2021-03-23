@@ -5,9 +5,9 @@
     font-weight: normal;
     font-size: 24px;
     line-height: 28px;
+    color: #FFFFFF;
     text-decoration: none;
     transition: opacity .3s ease;
-    text-decoration-line: underline;
 }
   
 .header__lang-link:hover {
@@ -19,4 +19,4 @@
       font-size: 18px;
       line-height: 1.33;
     }
-}
+}ы
