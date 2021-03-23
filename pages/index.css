@@ -1,2 +1,15 @@
 @import url(../vendor/normalize.css);
 @import url(../fonts/inter.css);
+
+@import url(../blocks/root/root.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__lang-list/header__lang-list.css);
+@import url(../blocks/header/__lang-item/header__lang-item.css);
+@import url(../blocks/header/__lang-link/header__lang-link.css);
+@import url(../blocks/header/__lang-link/__lang-link-RU/header__lang-link-RU.css);
+@import url(../blocks/header/__lang-link/__lang-link-EN/header__lang-link-EN.css);
+
+
+
