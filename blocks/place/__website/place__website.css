@@ -3,7 +3,7 @@
 }
 
 @media screen and (max-width: 767px) {
-  .place__site {
-    display: none;
-  }
-}  
+    .place__website {
+        display: none;
+    }
+}
