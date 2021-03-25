@@ -7,14 +7,18 @@
     max-width: 640px;
     height: 72px;
     color: #FFFFFF;
-    margin: 0 0 56px 0;
     line-height: 36px;
+    margin: 32px 0 0 0;
 }
 
+
+}
 @media screen and (max-width: 767px) {
     .lead__subtitle {
-      max-width: 288px;
-      font-size: 16px;
-      line-height: 36px;
+        max-width: 288px;
+        max-height: 40px;
+        font-size: 16px;
+        line-height: 20px;
+        margin: 16px 0 0 0;
     }
 }
