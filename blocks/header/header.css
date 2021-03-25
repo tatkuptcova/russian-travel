@@ -5,11 +5,12 @@
     background-color: #2A2C2F;
     display: flex;
     justify-content: space-between;
-    align-items: center;
 }
 
 @media screen and (max-width: 767px) {
     .header {
+        width: 288px;
+        height: 42px;
         padding: 16px 16px 48px 16px;
     }
 }
