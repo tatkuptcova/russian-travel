@@ -4,19 +4,19 @@
     margin-top: 64px;
 }
 
-@media screen and (max-width: 1279px) {
+@media screen and (max-width: 1280px) {
     .lead__figure {
         margin-top: 64px;
     }
 }
 
-@media screen and (max-width: 1279px) {
+@media screen and (max-width: 1024px) {
     .lead__figure {
         margin-top: 56px;
     }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
     .lead__figure {
         margin-top: 40px;
     }
